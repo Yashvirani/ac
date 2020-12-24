@@ -70,13 +70,7 @@
     margin-right: 10px;
 }
 
-.icon{
-    display: none;
-}
 
-.navbar{
-    display: none;
-}
 
 @media (max-width:500px){
     /* .header{
