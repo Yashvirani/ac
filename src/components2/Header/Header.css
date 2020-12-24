@@ -83,9 +83,7 @@
         flex-direction: column;
         width:125%;
     } */
-    .header{
-        display: none;
-    }
+    
     .icon{
         background:black;
         color: white;
